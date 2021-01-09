@@ -1,0 +1,24 @@
+D:\GcVBSPro\GunnerClient\GunnerClient\bin\Release\GunnerClient.exe
+D:\GcVBSPro\GunnerClient\GunnerClient\bin\Release\GunnerClient.pdb
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.MainWindow.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.Option.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.Properties.Resources.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.Test.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.csproj.GenerateResource.Cache
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.exe
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.pdb
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.GunnerTest.Draw.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.GunnerTest.Follow.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\bin\Release\GunnerClient.exe
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\bin\Release\GunnerClient.pdb
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.GunnerTest.Draw.resources
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.GunnerTest.Follow.resources
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.MainWindow.resources
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.Option.resources
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.Properties.Resources.resources
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.Test.resources
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.csproj.GenerateResource.cache
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.exe
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.pdb
+D:\Visual Studio 2017\projects\GunnerClient\GunnerClient\obj\x86\Release\GunnerClient.csprojResolveAssemblyReference.cache

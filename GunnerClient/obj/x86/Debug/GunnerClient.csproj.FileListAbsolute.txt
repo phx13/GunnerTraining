@@ -1,0 +1,11 @@
+D:\GcVBSPro\GunnerClient\GunnerClient\bin\Debug\GunnerClient.exe
+D:\GcVBSPro\GunnerClient\GunnerClient\bin\Debug\GunnerClient.pdb
+D:\GcVBSPro\GunnerClient\GunnerClient\bin\Debug\System.Data.SQLite.dll
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.csprojResolveAssemblyReference.cache
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.MainWindow.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.Option.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.Properties.Resources.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.Test.resources
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.csproj.GenerateResource.Cache
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.exe
+D:\GcVBSPro\GunnerClient\GunnerClient\obj\x86\Debug\GunnerClient.pdb
